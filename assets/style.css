@@ -1,3 +1,7 @@
 h2 {
   color: rgb(206, 17, 174);
 }
+address {
+  color: aliceblue;
+  background-color: rgb(12, 101, 179);
+}
